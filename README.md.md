@@ -104,7 +104,7 @@ The dataset contains sales transaction information, including order dates, custo
 
 
 
-&#x20;   !\[Sales Analysis Dashboard](dashboard\_screenshot.png)
+&#x20;   !\[Sales Analysis Dashboard][(Dashboard_Screenshot.png.png)](url)
 
 
 
